@@ -1,0 +1,21 @@
+﻿  core.cpp
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(157): error C2181: 没有匹配 if 的非法 else
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(249): error C2062: 意外的类型“int”
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(250): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(255): error C2065: “Row”: 未声明的标识符
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(257): error C2065: “Column”: 未声明的标识符
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(271): error C2440: “return”: 无法从“int”转换为“int *”
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(271): note: 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(282): error C2601: “scan_endflag”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(309): error C2601: “operate”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(341): error C2601: “push”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(347): error C2601: “pop”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(354): error C2601: “showmartix”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(367): error C2601: “showsolution”: 本地函数定义是非法的
+  c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): note: 此行有一个“{”没有匹配项
+c:\shelter\course desgin\v1.2.0\v1.2.0\v1.2.0\core.cpp(3): fatal error C1075: “{”: 未找到匹配令牌
