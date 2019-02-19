@@ -1,0 +1,10 @@
+﻿  DPLL.cpp
+  Microsoft (R) Incremental Linker Version 14.16.27027.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:C:\SHELTER\COURSE DESGIN\V1.3.1\Debug\V1.3.1.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK "/PDB:C:\SHELTER\COURSE DESGIN\V1.3.1\Debug\V1.3.1.pdb" "/HEAP:1000000,1000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\SHELTER\COURSE DESGIN\V1.3.1\Debug\V1.3.1.lib" /MACHINE:X86 Debug\fileread.obj 
+  Debug\main_colsole.obj 
+  Debug\DPLL.obj 
+  Debug\fileanalysis.obj 
+  Debug\filelisence.obj 
+  V1.3.1.vcxproj -> C:\SHELTER\COURSE DESGIN\V1.3.1\Debug\V1.3.1.exe
