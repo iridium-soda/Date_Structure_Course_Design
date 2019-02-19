@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(V1.2.0.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  core.cpp
+  Fileanalysis.cpp
+  Fileread.cpp
+  Lisence.cpp
+  main_consolecpp.cpp
+c:\shelter\course desgin\v1.2.1\v1.2.0\v1.2.0\main_consolecpp.cpp(5): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  V1.2.0.vcxproj -> C:\SHELTER\COURSE DESGIN\V1.2.1\V1.2.0\Debug\V1.2.1.exe
