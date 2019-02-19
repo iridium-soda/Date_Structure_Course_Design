@@ -1,0 +1,11 @@
+﻿  DPLL.cpp
+  fileanalysis.cpp
+c:\shelter\course desgin\v1.3.0.1\v1.3.0\fileanalysis.cpp(15): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+c:\shelter\course desgin\v1.3.0.1\v1.3.0\fileanalysis.cpp(24): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+c:\shelter\course desgin\v1.3.0.1\v1.3.0\fileanalysis.cpp(47): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+  filelisence.cpp
+  fileread.cpp
+  main_colsole.cpp
+c:\shelter\course desgin\v1.3.0.1\v1.3.0\main_colsole.cpp(5): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  V1.3.0.vcxproj -> C:\SHELTER\COURSE DESGIN\V1.3.0.1\x64\Debug\V1.3.0.exe
