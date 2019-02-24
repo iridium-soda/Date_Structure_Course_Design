@@ -1,0 +1,9 @@
+﻿  DPLL-MODIFIED.cpp
+f:\course_design\v1.4.2\v1.4.2\dpll-modified.cpp(246): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int **”
+  fileanalysis.cpp
+  filelisence.cpp
+  fileread.cpp
+  main_colsole.cpp
+f:\course_design\v1.4.2\v1.4.2\main_colsole.cpp(5): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  V1.4.2.vcxproj -> F:\Course_design\V1.4.2\Debug\V1.4.2.exe
