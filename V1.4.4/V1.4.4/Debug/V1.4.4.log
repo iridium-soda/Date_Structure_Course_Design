@@ -1,0 +1,11 @@
+﻿  DPLL-MODIFIED.cpp
+c:\shelter\course desgin\v1.4.4\v1.4.4\dpll-modified.cpp(40): warning C4101: “cost”: 未引用的局部变量
+  fileanalysis.cpp
+  filelisence.cpp
+  fileread.cpp
+  filewrite.cpp
+c:\shelter\course desgin\v1.4.4\v1.4.4\filewrite.cpp(4): warning C4101: “j”: 未引用的局部变量
+  main_colsole.cpp
+c:\shelter\course desgin\v1.4.4\v1.4.4\main_colsole.cpp(5): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  V1.4.4.vcxproj -> C:\SHELTER\COURSE DESGIN\V1.4.4\Debug\V1.4.4.exe
