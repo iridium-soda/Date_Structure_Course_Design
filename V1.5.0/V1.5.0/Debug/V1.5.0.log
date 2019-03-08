@@ -1,0 +1,16 @@
+﻿  DPLL-MODIFIED.cpp
+  DPLL-revise.cpp
+  fileanalysis.cpp
+  filelisence.cpp
+  fileread.cpp
+  filewrite.cpp
+c:\shelter\course desgin\v1.5.0\v1.5.0\filewrite.cpp(4): warning C4101: “j”: 未引用的局部变量
+  main_colsole.cpp
+c:\shelter\course desgin\v1.5.0\v1.5.0\main_colsole.cpp(125): warning C4129: “%”: 不可识别的字符转义序列
+c:\shelter\course desgin\v1.5.0\v1.5.0\main_colsole.cpp(125): warning C4778: “printf”: 格式字符串“%100\n”未终止
+  Soduku.cpp
+c:\shelter\course desgin\v1.5.0\v1.5.0\soduku.cpp(64): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\shelter\course desgin\v1.5.0\v1.5.0\soduku.cpp(189): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\shelter\course desgin\v1.5.0\v1.5.0\soduku.cpp(191): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  V1.5.0.vcxproj -> C:\SHELTER\COURSE DESGIN\V1.5.0\Debug\V1.5.0.exe
